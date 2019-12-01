@@ -1,0 +1,11 @@
+/* float the button container to right in its parent div */
+.btn-container {
+  float: right;
+}
+
+/* up to max-width limit bottom margin of hte button container */
+@media (max-width: 767px) {
+  .btn-container {
+    margin-bottom: 15px;
+  }
+}

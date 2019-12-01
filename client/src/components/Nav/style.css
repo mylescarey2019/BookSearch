@@ -1,0 +1,5 @@
+/* navbar class divs will have border radius of 0
+   i.e square corners */
+.navbar {
+  border-radius: 0;
+}
